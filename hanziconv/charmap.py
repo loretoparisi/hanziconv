@@ -167,11 +167,11 @@ extra_simplified = ''.join(textwrap.dedent("""
 """).split())
 
 addon_traditional = ''.join(textwrap.dedent("""
-檀
+檀洩湿淫慾四週
 """).split())
 
 addon_simplified = ''.join(textwrap.dedent("""
-坛
+坛泄溼淫欲四周
 """).split())
 
 simplified_charmap = cuhk_simplified + extra_simplified + addon_simplified

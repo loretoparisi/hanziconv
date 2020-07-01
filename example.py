@@ -23,3 +23,15 @@ print(HanziConv.same('繁簡轉換器', '繁简转换器'))
 print(HanziConv.toSimplified("把中檀元帅固定在神轿"))
 print(HanziConv.toSimplified("把中壇元帥固定在神轎"))
 # 把中坛元帅固定在神轿
+print(HanziConv.toSimplified("洩"))
+# 泄
+print(HanziConv.toSimplified("湿"))
+# 溼
+print(HanziConv.toSimplified("淫慾"))
+# 淫欲
+print(HanziConv.toSimplified("呼吸"))
+# 唿吸
+print(HanziConv.toSimplified("猛烈"))
+# 勐烈
+print(HanziConv.toSimplified("四週"))
+# 四週
