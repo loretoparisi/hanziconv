@@ -39,3 +39,7 @@ print(HanziConv.toSimplified("猛男该听的歌"))
 # 猛男该听的歌
 print(HanziConv.toSimplified("呼叫"))
 # 呼叫
+print(HanziConv.toSimplified("呼"))
+# 呼
+print(HanziConv.toSimplified("溜"))
+# 熘
