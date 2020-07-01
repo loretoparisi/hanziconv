@@ -166,5 +166,13 @@ extra_simplified = ''.join(textwrap.dedent("""
 迳鳈税谷锬亸厢龂哌觍阄叹鳡跖飏莜勋蜕噼册鉅宫疱侣撸硚锩鸴锳游魇冢垧桠戬于袯屃
 """).split())
 
-simplified_charmap = cuhk_simplified + extra_simplified
-traditional_charmap = cuhk_traditional + extra_traditional
+addon_traditional = ''.join(textwrap.dedent("""
+檀
+""").split())
+
+addon_simplified = ''.join(textwrap.dedent("""
+坛
+""").split())
+
+simplified_charmap = cuhk_simplified + extra_simplified + addon_simplified
+traditional_charmap = cuhk_traditional + extra_traditional + addon_traditional
