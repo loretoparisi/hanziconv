@@ -35,3 +35,7 @@ print(HanziConv.toSimplified("猛烈"))
 # 勐烈
 print(HanziConv.toSimplified("四週"))
 # 四週
+print(HanziConv.toSimplified("猛男该听的歌"))
+# 猛男该听的歌
+print(HanziConv.toSimplified("呼叫"))
+# 呼叫
