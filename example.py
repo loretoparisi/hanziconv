@@ -43,3 +43,11 @@ print(HanziConv.toSimplified("呼"))
 # 呼
 print(HanziConv.toSimplified("溜"))
 # 熘
+
+# test traditional to traditional
+print(HanziConv.toTraditional("親愛的牽起你的手 並將他們放在我手中"))
+# 親愛的牽起你的手 並將他們放在我手中
+
+# test simplified to simplified
+print(HanziConv.toSimplified("把中坛元帅固定在神轿"))
+# 把中坛元帅固定在神轿
